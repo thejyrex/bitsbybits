@@ -2,6 +2,8 @@
 
 A habit tracking application that helps you build better habits and achieve your goals through progressive tracking and smart notifications.
 
+<img src="https://github.com/user-attachments/assets/b4ced10e-ab88-4c08-9a1f-7cf1002ef6da" alt="BBB GIF" height="720">
+
 ## 📱 Features
 
 ### Core Functionality
