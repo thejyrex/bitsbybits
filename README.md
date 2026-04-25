@@ -1,10 +1,10 @@
-# Bits by Bits 🎯
+# Bits by Bits
 
 A habit tracking application that helps you build better habits and achieve your goals through progressive tracking and smart notifications.
 
 <img src="https://github.com/user-attachments/assets/b4ced10e-ab88-4c08-9a1f-7cf1002ef6da" alt="BBB GIF" height="720">
 
-## 📱 Features
+## Features
 
 ### Core Functionality
 - **Habit Management**: Create, edit, and delete habits with customizable schedules
@@ -33,9 +33,14 @@ A habit tracking application that helps you build better habits and achieve your
 2. Find which app version you want to try then expand the assets dropdown
 3. Download and install the .apk on your device
 
-## Full Version
+## Support
 
-If you noticed, the current available version in github is only the demo. As of now, the Full version of the app only available to testers. You can apply to be invited as closed testers by filling below form
+If you like the project and want to support the development, you can do one (or all) of the following:
+1. Fill the feedback form directly on the app
+2. Share this project so more people can try it
+3. Apply to be a closed tester by filling below form
+
+### Closed Testing
 
 https://forms.gle/DMXRUbbcDAEZ3jtSA
 
@@ -45,8 +50,8 @@ https://play.google.com/apps/testing/com.bits_by_bits
 
 ## 📄 License
 
-This is proprietary software. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
+This is proprietary software. Unauthorized copying, modification, or distribution of this software is strictly prohibited.
 
 ---
 
-*Build better habits, bits by bits* 🚀
+*Build better habits, bits by bits*
